@@ -1,4 +1,4 @@
-# CalvinLee234.github.io
+# Why Canes Chicken Sucks!
 
 <html>
 
@@ -11,9 +11,8 @@
 <body>
  <nav>
    <a href="./index.html">Brown Bear</a>
-   <a href="./aboutme.html">About Me</a>
  </nav>
- <h1>The Brown Bear</h1>
+ <h1>Canes Chicken Sucks!</h1>
  <nav>
    <ul>
      <li><a href="#introduction">Introduction</a></li>
@@ -25,7 +24,7 @@
    <h2>About Brown Bears</h2>
    <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the
      Atlas bear and the Himalayan brown bear.</p>
-   <a href="https://en.wikipedia.org/wiki/Hamburger" target="_blank">Learn More</a>
+   <a href="[https://en.wikipedia.org/wiki/Hamburger](https://udreview.com/review-is-raising-canes-overrated/)" target="_blank">Look at this review!</a>
    <h3>Species</h3>
    <ul>
      <li>Arctos</li>
