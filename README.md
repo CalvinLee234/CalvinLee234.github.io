@@ -1,10 +1,10 @@
-# Why Canes Chicken Sucks!
+# Canes Chicken Hate Page
 
 <html>
 
 
 <head>
- <title>Why Canes Chiken Sucks!</title>
+ 
 </head>
 
 
@@ -15,16 +15,15 @@
  <h1>Canes Chicken Sucks!</h1>
  <nav>
    <ul>
-     <li><a href="#introduction">Introduction</a></li>
-     <li><a href="#habitat">Habitat</a></li>
-     <li><a href="#media">Media</a></li>
+     <li><a href="#introduction">The Chicken</a></li>
+     <li><a href="#habitat">The Sauce</a></li>
+     <li><a href="#media">Images of the "food"</a></li>
    </ul>
  </nav>
  <div id="introduction">
-   <h2>About Brown Bears</h2>
-   <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the
-     Atlas bear and the Himalayan brown bear.</p>
-   <a href="[https://en.wikipedia.org/wiki/Hamburger](https://udreview.com/review-is-raising-canes-overrated/)" target="_blank">Look at this review!</a>
+   <h2>The Chicken!</h2>
+   <p> The Chicken is just not good! I mean 99 percent of the time, the chickne is dry and leaves just a depressing taste in your mouth. Have you ever tried the chicken without the sauce? I reccomend it so you can see just how sad  </p>
+   <a href="(https://udreview.com/review-is-raising-canes-overrated/)" target="_blank">Look at this review!</a>
    <h3>Species</h3>
    <ul>
      <li>Arctos</li>
