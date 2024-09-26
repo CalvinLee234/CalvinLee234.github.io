@@ -22,15 +22,10 @@
  </nav>
  <div id="introduction">
    <h2>The Chicken!</h2>
-   <p> The Chicken is just not good! I mean 99 percent of the time, the chickne is dry and leaves just a depressing taste in your mouth. Have you ever tried the chicken without the sauce? I reccomend it so you can see just how sad  </p>
+   <p> The Chicken is just not good! I mean 99 percent of the time, the chickne is dry and leaves just a depressing taste in your mouth. Have you ever tried the chicken without the sauce? I reccomend it so you can see just how sad this chicken truly is. If you look below you can see a comparison between canes "chicken" and other restruants fried chicken. With this comparison, I hope you can see how sad the chickne looks in comparison to other major resturants such as   </p>
    <a href="(https://udreview.com/review-is-raising-canes-overrated/)" target="_blank">Look at this review!</a>
    <h3>Species</h3>
-   <ul>
-     <li>Arctos</li>
-     <li>Collarus</li>
-     <li>Horribilis</li>
-     <li>Nelsoni (extinct)</li>
-   </ul>
+  
    <h3>Features</h3>
    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
  </div>
