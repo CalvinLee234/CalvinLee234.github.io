@@ -10,13 +10,13 @@
 
 <body>
  <nav>
-   <a href="./index.html">Brown Bear</a>
+   <a href="./index.html">I Hate Canes Chicken!</a>
  </nav>
  <h1>Canes Chicken Sucks!</h1>
  <nav>
    <ul>
      <li><a href="#introduction">The Chicken</a></li>
-     <li><a href="#habitat">The Sauce</a></li>
+     <li><a href="#habitat">The Fries</a></li>
      <li><a href="#media">Images of the "food"</a></li>
    </ul>
  </nav>
